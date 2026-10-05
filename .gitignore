@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Environment variables (secrets)
+.env
+*.env.local
+.env.production
+
+# Vector store binaries (regenerated via ingest script)
+backend/data/chroma_db/
+backend/vectorstore/
+
+# Scratch & Temporary Logs
+scratch/
+*.log
+*.tmp
+*.mp3
+*.wav
+
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter & Test artifacts
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+htmlcov/

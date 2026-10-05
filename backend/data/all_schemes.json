@@ -1,0 +1,1002 @@
+[
+    {
+        "id": "pm_kisan",
+        "title": "PM Kisan Samman Nidhi",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Income support of Rs. 6,000/year to landholding farmers in 3 installments.",
+        "eligibility": "All landholding farmer families.",
+        "exclusion": "Institutional landholders, taxpayers, MPs/MLAs.",
+        "documents_required": "Aadhaar, Land Records, Bank Account."
+    },
+    {
+        "id": "pm_fasal_bima",
+        "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Comprehensive crop insurance against natural risks from pre-sowing to post-harvest.",
+        "eligibility": "All farmers including sharecroppers & tenant farmers.",
+        "exclusion": "Non-notified crops.",
+        "documents_required": "Land record, Bank passbook, Sowing certificate."
+    },
+    {
+        "id": "pm_kisan_maan_dhan",
+        "title": "PM Kisan Maan-Dhan Yojana (PM-KMY)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Assured monthly pension of Rs. 3,000 for small and marginal farmers.",
+        "eligibility": "Small and marginal farmers aged 18-40 years with <= 2 hectares land.",
+        "exclusion": "Income tax payers, NPS/EPFO members.",
+        "documents_required": "Aadhaar, Bank Account."
+    },
+    {
+        "id": "kisan_credit_card",
+        "title": "Kisan Credit Card (KCC) Scheme",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Concessional credit to farmers for agricultural & allied activity expenses.",
+        "eligibility": "Farmers, individual/joint borrowers, SHGs, tenant farmers.",
+        "exclusion": "Defaulters to bank credit.",
+        "documents_required": "Aadhaar, PAN Card, Land ownership proof."
+    },
+    {
+        "id": "soil_health_card",
+        "title": "Soil Health Card Scheme",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Promotes soil test-based nutrient management for sustainable agriculture.",
+        "eligibility": "All farmers across India.",
+        "exclusion": "None.",
+        "documents_required": "Land details, Aadhaar Card."
+    },
+    {
+        "id": "pm_ksy_irrigation",
+        "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Expands cultivable area under assured irrigation (Har Khet Ko Pani).",
+        "eligibility": "Farmers with agricultural land.",
+        "exclusion": "Non-agricultural land.",
+        "documents_required": "Land documents, Aadhaar, Bank Details."
+    },
+    {
+        "id": "paramparagat_krishi",
+        "title": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Promotes organic farming through cluster approach and Participatory Guarantee System.",
+        "eligibility": "Farmers forming clusters of 50 or more.",
+        "exclusion": "Chemical farming clusters.",
+        "documents_required": "Aadhaar, Land Certificate, Bank Account."
+    },
+    {
+        "id": "agri_infrastructure_fund",
+        "title": "Agriculture Infrastructure Fund (AIF)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Medium-long term debt financing for post-harvest management infrastructure.",
+        "eligibility": "Primary Agricultural Credit Societies, Agri-entrepreneurs, SHGs.",
+        "exclusion": "Non-agri activities.",
+        "documents_required": "Project report, Bank Account, Aadhaar."
+    },
+    {
+        "id": "national_beekeeping_mission",
+        "title": "National Beekeeping & Honey Mission (NBHM)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Promotes holistic development of beekeeping for sweet revolution.",
+        "eligibility": "Individual beekeepers, SHGs, Cooperatives.",
+        "exclusion": "Unregistered entities.",
+        "documents_required": "Aadhaar, Beekeeper registration proof."
+    },
+    {
+        "id": "sub_mission_agri_mechanization",
+        "title": "Sub-Mission on Agricultural Mechanization (SMAM)",
+        "category": "Agriculture & Farmers",
+        "type": "Central Sector",
+        "objective": "Provides subsidies for purchasing farm machinery and establishing custom hiring centers.",
+        "eligibility": "Small, marginal, SC/ST, and women farmers.",
+        "exclusion": "Commercial non-farming entities.",
+        "documents_required": "Aadhaar, Land Document, Machinery Quotation."
+    },
+    {
+        "id": "ayushman_bharat_pmjay",
+        "title": "Ayushman Bharat PM-JAY",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Free health cover up to Rs. 5 Lakh/family/year for secondary & tertiary hospitalization.",
+        "eligibility": "Families listed in SECC 2011 & all senior citizens aged 70+.",
+        "exclusion": "High-income categories.",
+        "documents_required": "Aadhaar Card, Ration Card."
+    },
+    {
+        "id": "pm_janaushadhi",
+        "title": "PM Bhartiya Janaushadhi Pariyojana (PMBJP)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Provides quality generic medicines at 50%-90% lower prices.",
+        "eligibility": "Open to all Indian citizens.",
+        "exclusion": "None.",
+        "documents_required": "Doctor Prescription."
+    },
+    {
+        "id": "national_health_mission",
+        "title": "National Health Mission (NHM)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Provides universal access to equitable, affordable & quality healthcare services.",
+        "eligibility": "Rural & urban vulnerable populations.",
+        "exclusion": "None.",
+        "documents_required": "Aadhaar, Health Card."
+    },
+    {
+        "id": "rashtriya_vayoshri",
+        "title": "Rashtriya Vayoshri Yojana",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Free physical aids and assisted-living devices for low-income senior citizens.",
+        "eligibility": "Senior citizens aged 60+ belonging to BPL category.",
+        "exclusion": "Non-BPL senior citizens.",
+        "documents_required": "BPL Card, Age Proof, Aadhaar."
+    },
+    {
+        "id": "pm_abhim_infrastructure",
+        "title": "PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Strengthens urban & rural health infrastructure to prepare for future pandemics.",
+        "eligibility": "Public health centers & general citizens.",
+        "exclusion": "None.",
+        "documents_required": "Not applicable (Institutional)."
+    },
+    {
+        "id": "national_tb_elimination",
+        "title": "Nikshay Poshan Yojana (TB Patients)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Financial support of Rs. 500/month for nutritional needs of TB patients.",
+        "eligibility": "All notified TB patients undergoing treatment.",
+        "exclusion": "Non-notified private unrecorded cases.",
+        "documents_required": "Nikshay ID, Aadhaar, Bank Account."
+    },
+    {
+        "id": "janani_suraksha_yojana",
+        "title": "Janani Suraksha Yojana (JSY)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Promotes institutional delivery among pregnant women with cash assistance.",
+        "eligibility": "Pregnant women from BPL/SC/ST families.",
+        "exclusion": "Non-BPL in high performing states.",
+        "documents_required": "BPL Card, Aadhaar, Bank Account."
+    },
+    {
+        "id": "janani_shishu_suraksha",
+        "title": "Janani Shishu Suraksha Karyakram (JSSK)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Free medical treatment, transport, and diet for sick newborns & mothers.",
+        "eligibility": "Pregnant women and sick infants accessing public health facilities.",
+        "exclusion": "Private hospitals.",
+        "documents_required": "Aadhaar, Hospital Registration."
+    },
+    {
+        "id": "pm_poshan_abhiyaan",
+        "title": "POSHAN Abhiyaan (National Nutrition Mission)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Reduces stunting, under-nutrition, anemia among young children & women.",
+        "eligibility": "Children (0-6 years), pregnant women, lactating mothers.",
+        "exclusion": "None.",
+        "documents_required": "Aadhaar, Anganwadi Registration."
+    },
+    {
+        "id": "tele_manas_mental_health",
+        "title": "Tele-MANAS (Mental Health Assistance)",
+        "category": "Healthcare & Wellness",
+        "type": "Central Sector",
+        "objective": "Free 24/7 tele-mental health services across India.",
+        "eligibility": "All Indian citizens.",
+        "exclusion": "None.",
+        "documents_required": "None (Dial 14416)."
+    },
+    {
+        "id": "pmay_urban",
+        "title": "PM Awas Yojana - Urban (PMAY-U 2.0)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Financial assistance for urban households to build or purchase pucca houses.",
+        "eligibility": "EWS (Income <= 3L), LIG (3-6L), MIG (6-18L) owning no pucca house.",
+        "exclusion": "Property owners.",
+        "documents_required": "Aadhaar, Income Proof, Bank Details."
+    },
+    {
+        "id": "pmay_gramin",
+        "title": "PM Awas Yojana - Gramin (PMAY-G)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Assistance of Rs. 1.2-1.3 Lakh for rural homeless households to build pucca houses.",
+        "eligibility": "Rural households identified in SECC 2011 list.",
+        "exclusion": "Kutcha house non-listed.",
+        "documents_required": "Job Card, Aadhaar, Bank Details."
+    },
+    {
+        "id": "pm_svanidhi",
+        "title": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Collateral-free working capital loans of Rs. 10k, 20k, 50k for street vendors.",
+        "eligibility": "Street vendors with Certificate of Vending.",
+        "exclusion": "Non-vendors.",
+        "documents_required": "Vending ID, Aadhaar Card."
+    },
+    {
+        "id": "jal_jeevan_mission",
+        "title": "Jal Jeevan Mission (Har Ghar Jal)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Provides functional household tap connection to every rural home.",
+        "eligibility": "Rural households across all states.",
+        "exclusion": "Urban commercial.",
+        "documents_required": "Aadhaar, Address Proof."
+    },
+    {
+        "id": "pm_gram_sadak",
+        "title": "PM Gram Sadak Yojana (PMGSY)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Provides all-weather road connectivity to eligible unconnected rural habitations.",
+        "eligibility": "Rural habitations with population 500+ (250+ in hills).",
+        "exclusion": "Already connected habitations.",
+        "documents_required": "N/A (Infrastructure)."
+    },
+    {
+        "id": "swachh_bharat_urban",
+        "title": "Swachh Bharat Mission - Urban 2.0",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Financial assistance of Rs. 12,000 for constructing Individual Household Latrines.",
+        "eligibility": "Urban households with no toilet facility.",
+        "exclusion": "Commercial buildings.",
+        "documents_required": "Aadhaar, Bank Account, Photo."
+    },
+    {
+        "id": "swachh_bharat_gramin",
+        "title": "Swachh Bharat Mission - Gramin",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Incentive of Rs. 12,000 for BPL/identified APL rural households to build toilets.",
+        "eligibility": "BPL rural households, SC/ST, small farmers.",
+        "exclusion": "High-income households.",
+        "documents_required": "Aadhaar, Bank Account."
+    },
+    {
+        "id": "amrut_mission",
+        "title": "AMRUT 2.0 (Urban Rejuvenation)",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Provides universal coverage of water supply & sewage treatment in 500 cities.",
+        "eligibility": "Urban citizens in selected AMRUT cities.",
+        "exclusion": "Rural areas.",
+        "documents_required": "N/A (Infrastructure)."
+    },
+    {
+        "id": "smart_cities_mission",
+        "title": "Smart Cities Mission",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Promotes core infrastructure and clean environment in 100 selected cities.",
+        "eligibility": "Residents of selected smart cities.",
+        "exclusion": "Non-selected cities.",
+        "documents_required": "N/A (Urban development)."
+    },
+    {
+        "id": "pm_gati_shakti",
+        "title": "PM GatiShakti National Master Plan",
+        "category": "Housing & Infrastructure",
+        "type": "Central Sector",
+        "objective": "Multimodal connectivity infrastructure platform coordinating railway, road, port projects.",
+        "eligibility": "Infrastructure logistics providers & citizens.",
+        "exclusion": "None.",
+        "documents_required": "N/A (National Infrastructure)."
+    },
+    {
+        "id": "post_matric_scholarship_sc",
+        "title": "Post-Matric Scholarship for SC/ST Students",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Tuition waiver and maintenance allowance for SC/ST post-secondary education.",
+        "eligibility": "SC/ST students with family income <= Rs. 2.5 Lakh/year.",
+        "exclusion": "Income > 2.5 Lakh.",
+        "documents_required": "Caste Certificate, Income Certificate, Marksheet."
+    },
+    {
+        "id": "post_matric_scholarship_obc",
+        "title": "Post-Matric Scholarship for OBC Students",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Financial support for OBC students pursuing post-matriculation studies.",
+        "eligibility": "OBC students with family income <= Rs. 1.5 Lakh/year.",
+        "exclusion": "Income > 1.5 Lakh.",
+        "documents_required": "OBC Certificate, Income Proof, Marksheet."
+    },
+    {
+        "id": "pm_vidya_lakshmi",
+        "title": "PM Vidya Lakshmi Education Loan Scheme",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Single window education loan portal with interest subsidies for higher education.",
+        "eligibility": "Indian students securing admission to recognized courses.",
+        "exclusion": "Unrecognized private diplomas.",
+        "documents_required": "Admission letter, Fee structure, Marksheet."
+    },
+    {
+        "id": "nmms_scholarship",
+        "title": "National Means-cum-Merit Scholarship (NMMSS)",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Rs. 12,000/year scholarship for class 9-12 students to prevent dropouts.",
+        "eligibility": "Class 8 students (55%+ marks) with family income <= 3.5 Lakh.",
+        "exclusion": "KVS/NVS school students.",
+        "documents_required": "Class 8 Marksheet, Income Certificate."
+    },
+    {
+        "id": "central_sector_scholarship",
+        "title": "Central Sector Scheme of Scholarship (CSSS)",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Scholarship for top 20th percentile college students from low-income families.",
+        "eligibility": "Class 12 pass students with family income <= 4.5 Lakh.",
+        "exclusion": "Students receiving other central scholarships.",
+        "documents_required": "Class 12 Marksheet, Income Certificate, Aadhaar."
+    },
+    {
+        "id": "pm_research_fellowship",
+        "title": "PM Research Fellowship (PMRF)",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Attracts top talent to Ph.D. programs at IITs/IISc with Rs. 70,000-80,000 monthly stipend.",
+        "eligibility": "B.Tech/M.Sc graduates from IITs/NITs with high CGPA/GATE score.",
+        "exclusion": "Low CGPA candidates.",
+        "documents_required": "Degree certificate, GATE score, Research Proposal."
+    },
+    {
+        "id": "pragati_scholarship_girls",
+        "title": "AICTE Pragati Scholarship for Girl Students",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Rs. 50,000/year for girls pursuing technical degree/diploma education.",
+        "eligibility": "Girl students admitted to AICTE approved technical courses (Income <= 8 Lakh).",
+        "exclusion": "Income > 8 Lakh.",
+        "documents_required": "Admission Proof, Income Certificate, Aadhaar."
+    },
+    {
+        "id": "saksham_scholarship_disabled",
+        "title": "AICTE Saksham Scholarship for Disabled Students",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Rs. 50,000/year for specially-abled students pursuing technical education.",
+        "eligibility": "Differently-abled students (disability >= 40%) with income <= 8 Lakh.",
+        "exclusion": "Disability < 40%.",
+        "documents_required": "Disability Certificate, Admission Proof."
+    },
+    {
+        "id": "ishan_uday_north_east",
+        "title": "Ishan Uday Scholarship for North Eastern Region",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Rs. 5,400 to 7,800/month for general/degree/professional students of NER.",
+        "eligibility": "Students domiciled in NER states with family income <= 4.5 Lakh.",
+        "exclusion": "Non-NER domicile.",
+        "documents_required": "Domicile Certificate, Income Certificate."
+    },
+    {
+        "id": "pm_poshan_mid_day_meal",
+        "title": "PM POSHAN (Mid-Day Meal Scheme)",
+        "category": "Education & Scholarships",
+        "type": "Central Sector",
+        "objective": "Provides hot cooked meals to elementary school children (Class 1 to 8).",
+        "eligibility": "Students enrolled in Government and Government-aided schools.",
+        "exclusion": "Private un-aided schools.",
+        "documents_required": "School Enrollment."
+    },
+    {
+        "id": "sukanya_samriddhi",
+        "title": "Sukanya Samriddhi Yojana (SSY)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Tax-free savings scheme for girl child education & marriage.",
+        "eligibility": "Girl child aged up to 10 years, opened by natural/legal guardian.",
+        "exclusion": "Age > 10 years.",
+        "documents_required": "Birth Certificate, Guardian ID."
+    },
+    {
+        "id": "pm_matru_vandana",
+        "title": "PM Matru Vandana Yojana (PMMVY)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Cash incentive of Rs. 5,000 for 1st child & Rs. 6,000 for 2nd girl child to pregnant mothers.",
+        "eligibility": "Pregnant & Lactating Mothers meeting social criteria.",
+        "exclusion": "Regular government employees.",
+        "documents_required": "MCP Card, Aadhaar, Bank Passbook."
+    },
+    {
+        "id": "lakhpati_didi",
+        "title": "Lakhpati Didi Scheme",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Empowers rural Self-Help Group (SHG) women to earn >= Rs. 1 Lakh/year.",
+        "eligibility": "Women members of DAY-NRLM Self Help Groups.",
+        "exclusion": "Non-SHG members.",
+        "documents_required": "SHG ID, Aadhaar, Bank Details."
+    },
+    {
+        "id": "beti_bachao_beti_padhao",
+        "title": "Beti Bachao Beti Padhao (BBBP)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Addresses declining Child Sex Ratio and promotes education of girl child.",
+        "eligibility": "Girl children across all districts.",
+        "exclusion": "None.",
+        "documents_required": "Birth Certificate, Aadhaar."
+    },
+    {
+        "id": "working_women_hostel",
+        "title": "Sakhi Niwas (Working Women Hostel)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Safe and affordable hostel accommodation for working women.",
+        "eligibility": "Single, widowed, divorced working women with income <= 50,000/month.",
+        "exclusion": "High-income corporate executives.",
+        "documents_required": "Employment Certificate, Income Proof."
+    },
+    {
+        "id": "one_stop_centre_sakhi",
+        "title": "One Stop Centre (Sakhi)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Provides integrated support and assistance to women affected by violence.",
+        "eligibility": "Women facing physical, sexual, emotional, or economic abuse.",
+        "exclusion": "None.",
+        "documents_required": "Identity Proof, Complaint details."
+    },
+    {
+        "id": "mahila_samman_savings",
+        "title": "Mahila Samman Savings Certificate (MSSC)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Small savings scheme for women offering 7.5% fixed interest for 2 years.",
+        "eligibility": "Any woman or guardian on behalf of a minor girl.",
+        "exclusion": "Male applicants.",
+        "documents_required": "Aadhaar, PAN Card, Deposit Amount."
+    },
+    {
+        "id": "poshan_vaticana",
+        "title": "Poshan 2.0 Anganwadi Services",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Provides supplementary nutrition, pre-school non-formal education to children & mothers.",
+        "eligibility": "Children (6 months - 6 yrs), pregnant & lactating women.",
+        "exclusion": "None.",
+        "documents_required": "Anganwadi Registration, Aadhaar."
+    },
+    {
+        "id": "mission_vatsalya",
+        "title": "Mission Vatsalya (Child Protection)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Assistance for children in difficult circumstances, institutional and non-institutional care.",
+        "eligibility": "Orphaned, abandoned, or vulnerable children.",
+        "exclusion": "None.",
+        "documents_required": "Child ID, CWC order."
+    },
+    {
+        "id": "free_silai_machine",
+        "title": "PM Free Sewing Machine Scheme (States)",
+        "category": "Women & Child Welfare",
+        "type": "Central & State",
+        "objective": "Free sewing machines to poor women to start home-based tailoring business.",
+        "eligibility": "Rural & urban poor women aged 20-40 years with family income <= 1.2 Lakh.",
+        "exclusion": "Income > 1.2 Lakh.",
+        "documents_required": "Income Certificate, Aadhaar, Photo."
+    },
+    {
+        "id": "atal_pension_yojana",
+        "title": "Atal Pension Yojana (APY)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Guaranteed monthly pension of Rs. 1,000 to 5,000 for unorganized workers.",
+        "eligibility": "Citizens aged 18-40 having a bank account. Must not pay income tax.",
+        "exclusion": "Taxpayers.",
+        "documents_required": "Aadhaar, Bank Account."
+    },
+    {
+        "id": "nsap_old_age_pension",
+        "title": "Indira Gandhi National Old Age Pension (IGNOAPS)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Monthly pension for BPL elderly citizens (60+ years).",
+        "eligibility": "BPL citizens aged 60 and above.",
+        "exclusion": "Non-BPL households.",
+        "documents_required": "BPL Card, Age Proof, Bank Account."
+    },
+    {
+        "id": "nsap_widow_pension",
+        "title": "Indira Gandhi National Widow Pension (IGNWPS)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Monthly pension of Rs. 300-500 for destitute widows.",
+        "eligibility": "BPL widows aged 40-79 years.",
+        "exclusion": "Remarried widows / Non-BPL.",
+        "documents_required": "BPL Card, Death Certificate of Husband, Aadhaar."
+    },
+    {
+        "id": "nsap_disability_pension",
+        "title": "Indira Gandhi National Disability Pension (IGNDPS)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Monthly pension support for severely disabled BPL individuals.",
+        "eligibility": "BPL persons aged 18-79 with severe disability (80%+).",
+        "exclusion": "Disability < 80%.",
+        "documents_required": "Disability Certificate, BPL Card, Aadhaar."
+    },
+    {
+        "id": "pm_shram_yogi_mandhan",
+        "title": "PM Shram Yogi Maan-dhan (PM-SYM)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Monthly pension of Rs. 3,000 for unorganized workers (monthly income <= 15,000).",
+        "eligibility": "Unorganized workers aged 18-40 years.",
+        "exclusion": "EPFO/NPS/ESIC members.",
+        "documents_required": "Aadhaar, Savings Bank Account."
+    },
+    {
+        "id": "pm_laghu_vyapari_pension",
+        "title": "National Pension Scheme for Traders (NPS-Traders)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Pension of Rs. 3,000/month for small shopkeepers & retail traders.",
+        "eligibility": "Retail traders & shopkeepers (GST turnover <= 1.5 Crore) aged 18-40.",
+        "exclusion": "Income tax payers.",
+        "documents_required": "GSTIN, Aadhaar, Bank Account."
+    },
+    {
+        "id": "e_shram_card",
+        "title": "e-SHRAM Portal Registration",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "National database of unorganized workers providing accidental insurance cover of Rs. 2 Lakh.",
+        "eligibility": "Unorganized workers aged 16-59 years.",
+        "exclusion": "Income tax payers, EPFO/ESIC.",
+        "documents_required": "Aadhaar, Mobile linked with Aadhaar, Bank Account."
+    },
+    {
+        "id": "pm_suraksha_bima",
+        "title": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Accidental death and disability insurance cover of Rs. 2 Lakh for Rs. 20/year.",
+        "eligibility": "Bank account holders aged 18 to 70 years.",
+        "exclusion": "Age > 70.",
+        "documents_required": "Aadhaar, Bank Account."
+    },
+    {
+        "id": "pm_jeevan_jyoti_bima",
+        "title": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Life insurance cover of Rs. 2 Lakh for any cause of death at Rs. 436/year.",
+        "eligibility": "Bank account holders aged 18 to 50 years.",
+        "exclusion": "Age > 50.",
+        "documents_required": "Aadhaar, Bank Account."
+    },
+    {
+        "id": "varishtha_pension_bima",
+        "title": "Pradhan Mantri Vaya Vandana Yojana (PMVVY)",
+        "category": "Social Security & Pensions",
+        "type": "Central Sector",
+        "objective": "Pension scheme for senior citizens offering guaranteed 7.4%+ annual return.",
+        "eligibility": "Senior citizens aged 60 years and above.",
+        "exclusion": "Age < 60.",
+        "documents_required": "Aadhaar, PAN Card, Deposit Amount."
+    },
+    {
+        "id": "pm_mudra_yojana",
+        "title": "PM MUDRA Yojana (PMMY)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Collateral-free micro loans up to Rs. 10 Lakh (Shishu, Kishor, Tarun).",
+        "eligibility": "Non-farm micro entrepreneurs, small shopkeepers, traders.",
+        "exclusion": "Defaulters.",
+        "documents_required": "Identity Proof, Business Proposal."
+    },
+    {
+        "id": "stand_up_india",
+        "title": "Stand Up India Scheme",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Bank loans between Rs. 10 Lakh to Rs. 1 Crore for SC/ST and Women entrepreneurs.",
+        "eligibility": "SC/ST and/or Woman entrepreneurs setting up greenfield enterprises.",
+        "exclusion": "Existing businesses.",
+        "documents_required": "Caste Proof, PAN, Business Plan."
+    },
+    {
+        "id": "pm_vishwakarma",
+        "title": "PM Vishwakarma Scheme",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Toolkit incentive of Rs. 15,000 and loans up to Rs. 3 Lakh at 5% interest for artisans.",
+        "eligibility": "Artisans in 18 traditional trades (carpenters, potters, blacksmiths, etc.).",
+        "exclusion": "Non-traditional trades.",
+        "documents_required": "Aadhaar, Skill verification."
+    },
+    {
+        "id": "pm_egp_employment",
+        "title": "PM Employment Generation Programme (PMEGP)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Credit-linked subsidy up to 35% for setting up new micro-enterprises.",
+        "eligibility": "Individuals above 18 years; minimum 8th pass for manufacturing > 10L.",
+        "exclusion": "Existing units.",
+        "documents_required": "Project Report, Aadhaar, Caste Certificate."
+    },
+    {
+        "id": "credit_guarantee_fund",
+        "title": "CGTMSE (Credit Guarantee Scheme for Micro/Small Enterprises)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Collateral-free credit facility up to Rs. 5 Crore for MSMEs.",
+        "eligibility": "New and existing Micro and Small Enterprises.",
+        "exclusion": "Retail trade beyond limits.",
+        "documents_required": "MSME Udyam Registration, Loan Application."
+    },
+    {
+        "id": "udyam_registration",
+        "title": "Udyam MSME Registration Portal",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Free official registration providing government tender priority & interest subsidies.",
+        "eligibility": "All Micro, Small, and Medium Enterprises.",
+        "exclusion": "Unregistered trading entities.",
+        "documents_required": "Aadhaar, PAN Card, GSTIN."
+    },
+    {
+        "id": "ramprasad_bismil_scheme",
+        "title": "PM MSME Champions Scheme (ZED & Lean)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Financial assistance for Zero Defect Zero Effect (ZED) quality certification.",
+        "eligibility": "Registered MSMEs.",
+        "exclusion": "Non-MSMEs.",
+        "documents_required": "Udyam Registration."
+    },
+    {
+        "id": "pm_formalisation_food",
+        "title": "PM Formalisation of Micro Food Processing (PMFME)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "35% subsidy (max Rs. 10 Lakh) for micro food processing enterprises.",
+        "eligibility": "Individual micro food processors, FPOs, SHGs.",
+        "exclusion": "Large food processing industries.",
+        "documents_required": "Udyam, Aadhaar, Project Report."
+    },
+    {
+        "id": "scheme_fund_regeneration",
+        "title": "SFURTI (Scheme of Fund for Regeneration of Traditional Industries)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Organizes traditional artisans into clusters to make them competitive.",
+        "eligibility": "NGOs, SHGs, Field Institutions.",
+        "exclusion": "Individual applicants.",
+        "documents_required": "Cluster proposal."
+    },
+    {
+        "id": "startup_india_seed_fund",
+        "title": "Startup India Seed Fund Scheme (SISFS)",
+        "category": "Entrepreneurship & MSME",
+        "type": "Central Sector",
+        "objective": "Financial assistance up to Rs. 50 Lakh to early-stage startups for proof of concept.",
+        "eligibility": "DPIIT recognized startups incorporated <= 2 years.",
+        "exclusion": "Non-DPIIT registered entities.",
+        "documents_required": "DPIIT Recognition Certificate, Pitch Deck."
+    },
+    {
+        "id": "mgnrega",
+        "title": "MGNREGA Rural Employment Guarantee",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Guarantees 100 days of manual wage employment per year for rural households.",
+        "eligibility": "Adult members of rural households.",
+        "exclusion": "Urban residents.",
+        "documents_required": "MGNREGA Job Card, Aadhaar, Bank Account."
+    },
+    {
+        "id": "pmkvy_skill_india",
+        "title": "PM Kaushal Vikas Yojana (PMKVY 4.0)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Free industry-relevant skill training, certification, and job placement.",
+        "eligibility": "Unemployed youth or school/college dropouts (aged 15-45).",
+        "exclusion": "Currently employed.",
+        "documents_required": "Aadhaar, Educational Marksheet."
+    },
+    {
+        "id": "ddu_gky_rural_skills",
+        "title": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Placement-linked skill training for rural poor youth (aged 15-35).",
+        "eligibility": "Rural youth from poor families (SC/ST/Minority priority).",
+        "exclusion": "Urban youth.",
+        "documents_required": "Aadhaar, BPL Proof, Education Certificate."
+    },
+    {
+        "id": "naps_apprenticeship",
+        "title": "National Apprenticeship Promotion Scheme (NAPS)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Provides stipend support (25% up to Rs. 1,500/month) for trade apprentices.",
+        "eligibility": "Youth aged 14+ having ITI / Diploma / 10th / 12th qualification.",
+        "exclusion": "Non-registered candidates.",
+        "documents_required": "Aadhaar, Educational Qualification."
+    },
+    {
+        "id": "rural_self_employment",
+        "title": "RSETI (Rural Self Employment Training Institutes)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Short-term residential skill training & bank loan facilitation for rural youth.",
+        "eligibility": "Rural youth aged 18-45 years.",
+        "exclusion": "Urban non-poor.",
+        "documents_required": "Aadhaar, BPL Ration Card."
+    },
+    {
+        "id": "national_career_service",
+        "title": "National Career Service (NCS Portal)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Free online job matching, career counseling, and job fair platform.",
+        "eligibility": "Job seekers, students, and employers across India.",
+        "exclusion": "None.",
+        "documents_required": "Aadhaar, Educational Profile."
+    },
+    {
+        "id": "skill_hub_initiative",
+        "title": "Skill Hub Initiative (PMKVY in Schools)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Integrates vocational skill education in schools and higher education institutes.",
+        "eligibility": "Students from Class 6 to 12 & out-of-school youth.",
+        "exclusion": "None.",
+        "documents_required": "School ID, Aadhaar."
+    },
+    {
+        "id": "green_skill_development",
+        "title": "Green Skill Development Programme (GSDP)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "Trains youth in environment, forestry, and sustainable sector jobs.",
+        "eligibility": "Science graduates / 10th-12th dropouts.",
+        "exclusion": "None.",
+        "documents_required": "Marksheet, Aadhaar."
+    },
+    {
+        "id": "pm_vishwakarma_skill",
+        "title": "Vishwakarma Basic & Advanced Skill Training",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "5-7 days basic skill training with Rs. 500/day stipend for traditional craftsmen.",
+        "eligibility": "Artisans registered under PM Vishwakarma.",
+        "exclusion": "Non-registered.",
+        "documents_required": "PM Vishwakarma ID, Aadhaar."
+    },
+    {
+        "id": "agri_clinics_agri_business",
+        "title": "Agri-Clinics and Agri-Business Centres (ACABC)",
+        "category": "Employment & Skill Development",
+        "type": "Central Sector",
+        "objective": "45 days free training + 36-44% composite subsidy for agri-graduates.",
+        "eligibility": "Graduates in agriculture and allied subjects.",
+        "exclusion": "Non-agri graduates.",
+        "documents_required": "Agri Degree Certificate, Aadhaar."
+    },
+    {
+        "id": "subhadra_yojana_odisha",
+        "title": "Subhadra Yojana (Odisha)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Financial assistance of Rs. 10,000 per year (total Rs. 50,000 over 5 years) to women.",
+        "eligibility": "Women in Odisha aged 21 to 60 years from low-income families.",
+        "exclusion": "Taxpayers, Govt employees.",
+        "documents_required": "Aadhaar, Bank Passbook, Domicile."
+    },
+    {
+        "id": "ladli_behna_mp",
+        "title": "Mukhyamantri Ladli Behna Yojana (Madhya Pradesh)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Monthly financial assistance of Rs. 1,250 transferred to women's bank accounts.",
+        "eligibility": "Women domiciled in MP aged 21-60 years with family income < 2.5 Lakh.",
+        "exclusion": "Taxpaying families.",
+        "documents_required": "Samagra ID, Aadhaar, Bank Details."
+    },
+    {
+        "id": "kanya_sumangala_up",
+        "title": "Mukhya Mantri Kanya Sumangala Yojana (Uttar Pradesh)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Rs. 25,000 phased financial assistance for girl child from birth to graduation.",
+        "eligibility": "Girls domiciled in UP with annual family income <= 3 Lakh.",
+        "exclusion": "Families with > 2 children.",
+        "documents_required": "Birth Certificate, Income Proof, Domicile."
+    },
+    {
+        "id": "majhi_ladki_bahin_mh",
+        "title": "Mukhyamantri Majhi Ladki Bahin Yojana (Maharashtra)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Monthly financial aid of Rs. 1,500 to women aged 21-65 years.",
+        "eligibility": "Women domiciled in Maharashtra with family income <= 2.5 Lakh.",
+        "exclusion": "Income tax payers.",
+        "documents_required": "Aadhaar, Domicile Certificate, Ration Card."
+    },
+    {
+        "id": "lakshmir_bhandar_wb",
+        "title": "Lakshmir Bhandar Scheme (West Bengal)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Monthly financial assistance of Rs. 1,000 (General) and Rs. 1,200 (SC/ST) to women.",
+        "eligibility": "Female head of household aged 25-60 years domiciled in West Bengal.",
+        "exclusion": "Government employees.",
+        "documents_required": "Swasthyasathi Card, Aadhaar, Caste Certificate."
+    },
+    {
+        "id": "rythu_bandhu_telangana",
+        "title": "Rythu Bandhu Scheme (Telangana)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Investment support of Rs. 10,000 per acre per year for agricultural inputs.",
+        "eligibility": "Landowning farmers in Telangana state.",
+        "exclusion": "Non-landowning tenant farmers.",
+        "documents_required": "Pattadar Passbook, Aadhaar, Bank Details."
+    },
+    {
+        "id": "kalia_scheme_odisha",
+        "title": "KALIA Scheme (Odisha)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Financial support of Rs. 25,000 per family for small/marginal farmers & landless agricultural laborers.",
+        "eligibility": "Small, marginal farmers & landless agricultural laborers in Odisha.",
+        "exclusion": "Taxpayers, MPs/MLAs.",
+        "documents_required": "Aadhaar, Ration Card, Bank Account."
+    },
+    {
+        "id": "chiranjeevi_health_rajasthan",
+        "title": "Mukhyamantri Chiranjeevi Swasthya Bima (Rajasthan)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Health insurance cover up to Rs. 25 Lakh per family per year for Rajasthan residents.",
+        "eligibility": "All families domiciled in Rajasthan state.",
+        "exclusion": "Non-residents.",
+        "documents_required": "Jan Aadhaar Card, Ration Card."
+    },
+    {
+        "id": "kanyashree_prakalpa_wb",
+        "title": "Kanyashree Prakalpa (West Bengal)",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Annual scholarship of Rs. 1,000 and one-time grant of Rs. 25,000 to prevent child marriage.",
+        "eligibility": "Unmarried girls aged 13-19 studying in recognized institutions in WB.",
+        "exclusion": "Married girls under 18.",
+        "documents_required": "School Certificate, Unmarried Certificate, Aadhaar."
+    },
+    {
+        "id": "delhi_free_bus_pink_ticket",
+        "title": "Delhi Pink Ticket Free Bus Scheme",
+        "category": "State Flagship Schemes",
+        "type": "State Government",
+        "objective": "Free travel for women in all DTC and cluster city buses in Delhi.",
+        "eligibility": "All female passengers traveling in Delhi city buses.",
+        "exclusion": "Male passengers.",
+        "documents_required": "None (Pink Ticket issued on bus)."
+    },
+    {
+        "id": "pm_surya_ghar",
+        "title": "PM Surya Ghar: Muft Bijli Yojana",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Up to 300 units free electricity per month via rooftop solar installation with 60% subsidy.",
+        "eligibility": "Households with suitable rooftop & electricity connection.",
+        "exclusion": "Commercial buildings.",
+        "documents_required": "Electricity Bill, Aadhaar, Bank Account."
+    },
+    {
+        "id": "pm_ujjwala_yojana",
+        "title": "Pradhan Mantri Ujjwala Yojana (PMUY 2.0)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Deposit-free LPG gas connection + Rs. 300 subsidy per cylinder refill for poor women.",
+        "eligibility": "Adult women from BPL / SC / ST / PMAY households.",
+        "exclusion": "Existing LPG connection holders.",
+        "documents_required": "Aadhaar, Ration Card, Bank Account."
+    },
+    {
+        "id": "pm_kusum_solar_pump",
+        "title": "PM-KUSUM (Solar Pumps for Farmers)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "60% subsidy for installing standalone solar agriculture pumps & solarizing grid pumps.",
+        "eligibility": "Farmers, Panchayats, Farmer Producer Organizations (FPOs).",
+        "exclusion": "Non-farmers.",
+        "documents_required": "Land documents, Aadhaar, Bank Details."
+    },
+    {
+        "id": "national_green_hydrogen",
+        "title": "National Green Hydrogen Mission",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Promotes green hydrogen production, manufacturing electrolysers & clean energy transition.",
+        "eligibility": "Clean energy developers, industries.",
+        "exclusion": "Fossil fuel expansion.",
+        "documents_required": "DPIIT registration, Project Report."
+    },
+    {
+        "id": "faster_adoption_ev_fame",
+        "title": "FAME India Phase II / PM E-Drive Scheme",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Subsidies & incentives for purchasing Electric Vehicles (2W, 3W, 4W, e-buses).",
+        "eligibility": "EV buyers and charging infrastructure developers.",
+        "exclusion": "ICE petrol/diesel vehicle buyers.",
+        "documents_required": "Aadhaar, Vehicle Purchase Invoice."
+    },
+    {
+        "id": "gobardhan_scheme",
+        "title": "GOBARdhan Scheme (Galvanizing Organic Bio-Agro Resources)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Converts cattle dung and organic waste into Biogas and Compressed Bio-Gas (CBG).",
+        "eligibility": "Farmers, Gram Panchayats, Dairy Cooperatives.",
+        "exclusion": "None.",
+        "documents_required": "Land details, Panchayat resolution."
+    },
+    {
+        "id": "namami_gange_mission",
+        "title": "Namami Gange Programme",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Integrated conservation mission to clean, protect, and rejuvenate River Ganga.",
+        "eligibility": "Ganga basin communities, industries, & municipal bodies.",
+        "exclusion": "None.",
+        "documents_required": "N/A (National Project)."
+    },
+    {
+        "id": "national_clean_air",
+        "title": "National Clean Air Programme (NCAP)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Targeted 20-40% reduction in particulate matter (PM2.5/PM10) concentrations in 131 cities.",
+        "eligibility": "Residents of non-attainment Indian cities.",
+        "exclusion": "None.",
+        "documents_required": "N/A (Urban Environment)."
+    },
+    {
+        "id": "deep_ocean_mission",
+        "title": "Deep Ocean Mission (Ministry of Earth Sciences)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Exploration of deep ocean resources and oceanic climate change advisory services.",
+        "eligibility": "Scientific institutions, marine researchers.",
+        "exclusion": "None.",
+        "documents_required": "N/A (Scientific Research)."
+    },
+    {
+        "id": "green_credit_programme",
+        "title": "Green Credit Programme (GCP)",
+        "category": "Clean Energy & Utilities",
+        "type": "Central Sector",
+        "objective": "Market-based mechanism incentivizing voluntary environmental actions (tree planting, water conservation).",
+        "eligibility": "Individuals, SHGs, Panchayats, Private Companies.",
+        "exclusion": "None.",
+        "documents_required": "Green Credit Portal Registration."
+    }
+]
