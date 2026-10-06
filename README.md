@@ -177,13 +177,8 @@ npm run dev
 
 ## 🎓 Team & Academic Credits
 
-- **Course:** B.Tech VII Semester Minor Project (2023-2027)
+- **Course:** B.Tech III Semester 
 - **Department:** Computer Science & Engineering
-- **Institution:** Maharaja Agrasen Institute of Technology (MAIT), Delhi
-- **Team ID:** `MNP007`
-- **Team Members:**
-  - **Keshav Jindal** (Enrollment No. 00496402723)
-  - **Vaibhav Garg** (Enrollment No. 01196402723)
-- **Project Guide:** Dr. Yogesh Sharma
+- **Name:** Abinash
 
 
