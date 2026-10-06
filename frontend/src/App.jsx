@@ -51,7 +51,7 @@ export default function App() {
             color: 'var(--text-muted)',
           }}
         >
-          GovAssist &mdash; B.Tech Minor Project &middot; MAIT 2023–27 &middot; Team MNP007
+          GovAssist &mdash; B.Tech CSE &middot; CUTM 2025-29 &middot; Team Zero-Gravity
         </p>
       </footer>
     </div>
