@@ -11,7 +11,7 @@ class LLMClient:
     """
     def __init__(self, api_key: str = None):
         self.api_key = api_key or settings.GEMINI_API_KEY
-        self.model = "gemini-2.5-flash"
+        self.model = "gemini-3.8-flash"
         self.endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/{self.model}:generateContent?key={self.api_key}"
 
     def generate_json(self, prompt: str, max_retries: int = 2) -> dict:
